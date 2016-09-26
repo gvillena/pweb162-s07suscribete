@@ -1,11 +1,11 @@
-# PWEB162-S07
-# Java Server Pages
+#PWEB162-S07
 
-###__Java Server Pages (JSP)__<br>simplemente html con java 
-
+Java Server Pages
+simplemente html con java
 JSP es una tecnología de lado de servidor que ayuda a crear una página web dinámica utilizando Java como lenguaje de programación.
 
 __Ejemplo JSP__
+
 ```
 <%-- Comentario JSP--%>
 <html>
@@ -72,7 +72,9 @@ Las etiquetas de expresión evalúa la expresión ingresada, transforma estos da
 
 __Sintaxis:__
 
-```<%= expression %>```
+```
+<%= expression %>
+```
 
 __Ejemplo 1__
 
@@ -149,7 +151,9 @@ Los 'Scriptlet' son bloques de codigo en Java, que se ejecutan cada vez que se l
 
 __Sintaxis__
 
-```<% codigo java ejecutable %>```
+```
+<% codigo java ejecutable %>
+```
 
 __Ejemplo__
 
@@ -200,7 +204,9 @@ Las directivas en JSP permiten establecer instrucciones al motor del servidor JS
 
 Syntax of Directives:
 
-``` <%@ directive_name [attribute name=“value” attribute name=“value” ...]%>```
+``` 
+<%@ directive_name [attribute name=“value” attribute name=“value” ...]%>
+```
  
 Hay tres tipos de directivas en JSP:
 
@@ -268,7 +274,6 @@ public class User implements Serializable {
 
 ```
 
-----------
 
 ###__JSP Expression Language__<br>una manera simple de acceder a datos de aplicaciones
 
@@ -277,8 +282,8 @@ Expression Lenguage (EL) tiene como propósito principal el para simplificar el 
 'EL' incluye también operadores aritméticos, relacionales y lógicos.
 
 __Sintaxis__
-	
-	${expression}
+
+${expression}
 
 todo lo que esté dentro de llaves es evaluado en tiempo de ejecución y enviado a la secuencia de salida.
 
