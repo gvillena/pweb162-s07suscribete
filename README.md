@@ -1,10 +1,5 @@
-# pweb162-s07suscribete
-
-__PWEB162-S07__
-===============
-
-#Java Server Pages
-________
+# PWEB162-S07
+# Java Server Pages
 
 ###__Java Server Pages (JSP)__<br>simplemente html con java 
 
