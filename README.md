@@ -20,7 +20,7 @@ __Ejemplo JSP__
 </html>
 ```
 
-###__JSP Declaration Tags__<br>simplemente html con java 
+###__JSP Declaration Tags__<br>_simplemente html con java_
 
 La etiqueta de declaración JSP es un bloque de código java para la declaración variables y metodos a nivel de clase.  Lo que sea colocado dentro de estas etiquetas es inicializado durante la fase de inicialización JSP y tiene ámbito de clase.
 
