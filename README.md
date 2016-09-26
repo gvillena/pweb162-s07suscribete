@@ -1,12 +1,11 @@
 # PWEB162-S07
 
-__Java Server Pages__
-_simplemente html con java_
-###
+###Java Server Pages
+##simplemente html con java
 
 JSP es una tecnología de lado de servidor que ayuda a crear una página web dinámica utilizando Java como lenguaje de programación.
 
-__Ejemplo JSP__
+###Ejemplo JSP
 
 ```
 <%-- Comentario JSP--%>
